@@ -8,3 +8,4 @@ cd init.lua
 cp -r . ~/.config/nvim
 ```
 For anyone that is interested in my nvim lua config. 
+Thank you.
